@@ -1,0 +1,10 @@
+!import-table --phb-trinkets --hide
+!import-table-item --phb-trinkets --A mummified goblin hand --1 --
+!import-table-item --phb-trinkets --A piece of crystal that faintly glows in the moonlight --1 --
+!import-table-item --phb-trinkets --A gold coin minted in an unknown land --1 --
+!import-table-item --phb-trinkets --A diary written in a language you don’t know --1 --
+!import-table-item --phb-trinkets --A brass ring that never tarnishes --1 --
+!import-table-item --phb-trinkets --An old chess piece made from glass --1 --
+
+
+!import-table-item --phb-trinkets -- --1 --

@@ -1,0 +1,80 @@
+!import-table --dmg-potions --hide
+!import-table-item --dmg-potions --A vial containing a dose of Cure light wounds (potion) --30
+!import-table-item --dmg-potions --A vial containing a dose of Endure elements (potion) --23
+!import-table-item --dmg-potions --A vial containing a dose of Hide from animals (potion) --22
+!import-table-item --dmg-potions --A vial containing a dose of Hide from undead (potion) --22
+!import-table-item --dmg-potions --A vial containing a dose of Jump (potion) --22
+!import-table-item --dmg-potions --A vial containing a dose of Mage armor (potion) --23
+!import-table-item --dmg-potions --A vial containing a dose of Magic fang (potion) --23
+!import-table-item --dmg-potions --A vial containing a dose of Magic stone (oil) --21
+!import-table-item --dmg-potions --A vial containing a dose of Magic weapon (oil) --23
+!import-table-item --dmg-potions --A vial containing a dose of Pass without trace (potion) --21
+!import-table-item --dmg-potions --A vial containing a dose of Protection from (alignment) (potion) --22
+!import-table-item --dmg-potions --A vial containing a dose of Remove fear (potion) --22
+!import-table-item --dmg-potions --A vial containing a dose of Sanctuary (potion) --21
+!import-table-item --dmg-potions --A vial containing a dose of Shield of faith +2 (potion) --23
+!import-table-item --dmg-potions --A vial containing a dose of Shillelagh (oil) --21
+!import-table-item --dmg-potions --A vial containing a dose of Bless weapon (oil) --22
+!import-table-item --dmg-potions --A vial containing a dose of Enlarge person (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Reduce person (potion) --11
+!import-table-item --dmg-potions --A vial containing a dose of Aid (potion) --12
+!import-table-item --dmg-potions --A vial containing a dose of Barkskin +2 (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Bear’s endurance (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Blur (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Bull’s strength (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Cat’s grace (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Cure moderate wounds (potion) --15
+!import-table-item --dmg-potions --A vial containing a dose of Darkness (oil) --11
+!import-table-item --dmg-potions --A vial containing a dose of Darkvision (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Delay poison (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Eagle’s splendor (potion) --12
+!import-table-item --dmg-potions --A vial containing a dose of Fox’s cunning (potion) --12
+!import-table-item --dmg-potions --A vial containing a dose of Invisibility (potion or oil) --13
+!import-table-item --dmg-potions --A vial containing a dose of Lesser restoration (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Levitate (potion or oil) --12
+!import-table-item --dmg-potions --A vial containing a dose of Misdirection (potion) --11
+!import-table-item --dmg-potions --A vial containing a dose of Owl’s wisdom (potion) --12
+!import-table-item --dmg-potions --A vial containing a dose of Protection from arrows 10/magic (potion) --12
+!import-table-item --dmg-potions --A vial containing a dose of Remove paralysis (potion) --12
+!import-table-item --dmg-potions --A vial containing a dose of Resist energy (type) 10 (potion) --13
+!import-table-item --dmg-potions --A vial containing a dose of Shield of faith +3 (potion) --11
+!import-table-item --dmg-potions --A vial containing a dose of Spider climb (potion) --12
+!import-table-item --dmg-potions --A vial containing a dose of Undetectable alignment (potion) --11
+!import-table-item --dmg-potions --A vial containing a dose of Barkskin +3 (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Shield of faith +4 (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Resist energy (type) 20 (potion) --3
+!import-table-item --dmg-potions --A vial containing a dose of Cure serious wounds (potion) --5
+!import-table-item --dmg-potions --A vial containing a dose of Daylight (oil) --1
+!import-table-item --dmg-potions --A vial containing a dose of Displacement (potion) --3
+!import-table-item --dmg-potions --A vial containing a dose of Flame arrow (oil) --1
+!import-table-item --dmg-potions --A vial containing a dose of Fly (potion) --3
+!import-table-item --dmg-potions --A vial containing a dose of Gaseous form (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Greater magic fang +1 (potion) --2
+!import-table-item --dmg-potions --A vial containing a dose of Greater magic weapon +1 (oil) --2
+!import-table-item --dmg-potions --A vial containing a dose of Haste (potion) --2
+!import-table-item --dmg-potions --A vial containing a dose of Heroism (potion) --3
+!import-table-item --dmg-potions --A vial containing a dose of Keen edge (oil) --2
+!import-table-item --dmg-potions --A vial containing a dose of Magic circle against (alignment) (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Magic vestment +1 (oil) --2
+!import-table-item --dmg-potions --A vial containing a dose of Neutralize poison (potion) --3
+!import-table-item --dmg-potions --A vial containing a dose of Nondetection (potion) --2
+!import-table-item --dmg-potions --A vial containing a dose of Protection from energy (type) (potion) --3
+!import-table-item --dmg-potions --A vial containing a dose of Rage (potion) --2
+!import-table-item --dmg-potions --A vial containing a dose of Remove blindness/deafness (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Remove curse (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Remove disease (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Tongues (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Water breathing (potion) --2
+!import-table-item --dmg-potions --A vial containing a dose of Water walk (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Barkskin +4 (potion) --2
+!import-table-item --dmg-potions --A vial containing a dose of Shield of faith +5 (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Good hope (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Resist energy (type) 30 (potion) --3
+!import-table-item --dmg-potions --A vial containing a dose of Barkskin +5 (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Greater magic fang +2 (potion) --4
+!import-table-item --dmg-potions --A vial containing a dose of Greater magic weapon +2 (oil) --4
+!import-table-item --dmg-potions --A vial containing a dose of Magic vestment +2 (oil) --4
+!import-table-item --dmg-potions --A vial containing a dose of Protection from arrows 15/magic (potion) --1
+!import-table-item --dmg-potions --A vial containing a dose of Greater magic fang +3 (potion) --3
+!import-table-item --dmg-potions --A vial containing a dose of Greater magic weapon +3 (oil) --3
+!import-table-item --dmg-potions --A vial containing a dose of Magic vestment +3 (oil) --3
