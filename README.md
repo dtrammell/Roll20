@@ -2,9 +2,9 @@
 Roll20 Virtual Tabletop Resources - Scripts, Tables, Macros, and more!
 
 
-This repository is organized heirarchically in the following manner:
+This repository is organized using the following hierarchy:
 
-Roll20/<Game>/<Version>/<Resource>/<Source>/File
+Path: /Roll20/<Game>/<Version>/<Resource>/<Source>/File
 
 Roll20 is the root repository directory.
 
