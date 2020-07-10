@@ -1,0 +1,6 @@
+!import-table --dmg-ind-treasure-5-10 --hide
+!import-table-item --dmg-ind-treasure-5-10 --4d6*100 cp, 1d6*10 ep --30 --
+!import-table-item --dmg-ind-treasure-5-10 --6d6*10 sp, 2d6*10 gp --30 --
+!import-table-item --dmg-ind-treasure-5-10 --3d6*10 ep, 2d6*10 gp --10 --
+!import-table-item --dmg-ind-treasure-5-10 --4d6*10 gp --15 --
+!import-table-item --dmg-ind-treasure-5-10 --2d6*10 pp, 3d6 pp --5 --

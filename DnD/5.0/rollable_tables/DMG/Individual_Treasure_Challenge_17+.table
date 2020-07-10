@@ -1,0 +1,4 @@
+!import-table --dmg-ind-treasure-11-16 --hide
+!import-table-item --dmg-ind-treasure-11-16 --2d6*1000 ep, 8d6*100 gp --15 --
+!import-table-item --dmg-ind-treasure-11-16 --1d6*1000 gp, 1d6*100 pp --40 --
+!import-table-item --dmg-ind-treasure-11-16 --1d6*1000 gp, 2d6*100 pp --45 --
