@@ -1,0 +1,9 @@
+!import-table --Wilderness-Encounters-Day --hide
+!import-table-item --Wilderness-Encounters-Day --<%%91%%><%%91%%>1d8+2<%%93%%><%%93%%> Stirges --17 --
+!import-table-item --Wilderness-Encounters-Day --1 Ogre --17 --
+!import-table-item --Wilderness-Encounters-Day --<%%91%%><%%91%%>1d6+3<%%93%%><%%93%%> Goblins --17 --
+!import-table-item --Wilderness-Encounters-Day --<%%91%%><%%91%%>1d4+2<%%93%%><%%93%%> Hobgoblins --17 --
+!import-table-item --Wilderness-Encounters-Day --<%%91%%><%%91%%>1d4+2<%%93%%><%%93%%> Orcs --17 --
+!import-table-item --Wilderness-Encounters-Day --1d4+2<%%93%%><%%93%%> Wolves --8 --
+!import-table-item --Wilderness-Encounters-Day --1 Owlbear --7 --
+!import-table-item --Wilderness-Encounters-Day --nothing --400 --

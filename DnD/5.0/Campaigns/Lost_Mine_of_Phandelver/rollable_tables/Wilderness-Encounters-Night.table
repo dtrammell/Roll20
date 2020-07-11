@@ -1,0 +1,9 @@
+!import-table --Wilderness-Encounters-Night --show
+!import-table-item --Wilderness-Encounters-Night --<%%91%%><%%91%%>1d8+2<%%93%%><%%93%%> Stirges --25 --
+!import-table-item --Wilderness-Encounters-Night --<%%91%%><%%91%%>1d4+1<%%93%%><%%93%%> Ghouls --8 --
+!import-table-item --Wilderness-Encounters-Night --<%%91%%><%%91%%>1d6+3<%%93%%><%%93%%> Goblins --8 --
+!import-table-item --Wilderness-Encounters-Night --<%%91%%><%%91%%>1d4+2<%%93%%><%%93%%> Hobgoblins --8 --
+!import-table-item --Wilderness-Encounters-Night --<%%91%%><%%91%%>1d4+2<%%93%%><%%93%%> Orcs --17 --
+!import-table-item --Wilderness-Encounters-Night --<%%91%%><%%91%%>1d4+2<%%93%%><%%93%%> Wolves --17 --
+!import-table-item --Wilderness-Encounters-Night --1 Owlbear --17 --
+!import-table-item --Wilderness-Encounters-Night --nothing --400 --
