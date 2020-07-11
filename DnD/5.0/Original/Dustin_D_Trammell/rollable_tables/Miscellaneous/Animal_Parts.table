@@ -1,0 +1,14 @@
+!import-table --animal-parts --show
+!import-table-item --animal-parts --a hunk of tongue meat --1 --
+!import-table-item --animal-parts --a sun-bleached ribcage --1 --
+!import-table-item --animal-parts --a small animal's skull --1 --
+!import-table-item --animal-parts --a patch of brown fur --1 --
+!import-table-item --animal-parts --a femur bone --1 --
+!import-table-item --animal-parts --a flat, dehydrated eyeball --1 --
+!import-table-item --animal-parts --a small pile of teeth --1 --
+!import-table-item --animal-parts --a cloven hoof --1 --
+!import-table-item --animal-parts --a wolf skull --1 --
+!import-table-item --animal-parts --a patch of gray fur --1 --
+!import-table-item --animal-parts --half of some kind of skull --1 --
+!import-table-item --animal-parts --a necklace made out of toes --1 --
+!import-table-item --animal-parts --a snout --1 --
