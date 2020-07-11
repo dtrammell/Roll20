@@ -1,0 +1,18 @@
+!import-table --potions-uncommon --show
+!import-table-item --potions-uncommon --Potion of Animal Friendship --1 --
+!import-table-item --potions-uncommon --Potion of Fire Breath --1 --
+!import-table-item --potions-uncommon --Potion of Hill Giant Strength --1 --
+!import-table-item --potions-uncommon --Potion of Growth --1 --
+!import-table-item --potions-uncommon --Potion of Greater Healing --1 --
+!import-table-item --potions-uncommon --Potion of Poison --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Acid) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Cold) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Fire) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Force) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Lightning) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Necrotic) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Poison) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Psychic) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Radiant) --1 --
+!import-table-item --potions-uncommon --Potion of Resistance (Thunder) --1 --
+!import-table-item --potions-uncommon --Potion of Water Breathing --1 --

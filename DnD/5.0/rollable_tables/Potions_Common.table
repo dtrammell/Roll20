@@ -1,0 +1,3 @@
+!import-table --potions-common --show
+!import-table-item --potions-common --Potion of Climbing --1 --
+!import-table-item --potions-common --Potion of Healing --1 --
