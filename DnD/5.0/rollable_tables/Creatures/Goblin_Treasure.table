@@ -1,0 +1,8 @@
+!import-table --creature-treasure-goblin --hide
+!import-table-item --creature-treasure-goblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%>, a <%%91%%><%%91%%>1t<%%91%%>dmg-10gp-gemstones<%%93%%><%%93%%><%%93%%>, <%%91%%><%%91%%>1d3<%%93%%><%%93%%> <%%91%%><%%91%%>1t<%%91%%>potions-common<%%93%%><%%93%%><%%93%%> potion(s), and <%%91%%><%%91%%>1d12<%%93%%><%%93%%> arrows. --1 --
+!import-table-item --creature-treasure-goblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%>, <%%91%%><%%91%%>1d3<%%93%%><%%93%%> <%%91%%><%%91%%>1t<%%91%%>potions-common<%%93%%><%%93%%><%%93%%> potion(s), and <%%91%%><%%91%%>1d12<%%93%%><%%93%%> arrows. --2 --
+!import-table-item --creature-treasure-goblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%>, a <%%91%%><%%91%%>1t<%%91%%>dmg-10gp-gemstones<%%93%%><%%93%%><%%93%%>, and <%%91%%><%%91%%>1d12<%%93%%><%%93%%> arrows. --2 --
+!import-table-item --creature-treasure-goblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%> and <%%91%%><%%91%%>1d12<%%93%%><%%93%%> arrows. --10 --
+!import-table-item --creature-treasure-goblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%> and <%%91%%><%%91%%>1d8<%%93%%><%%93%%> arrows. --15 --
+!import-table-item --creature-treasure-goblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%> and <%%91%%><%%91%%>1d8<%%93%%><%%93%%> arrows. --30 --
+!import-table-item --creature-treasure-goblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%> and <%%91%%><%%91%%>1d4+1<%%93%%><%%93%%> arrows. --40 --
