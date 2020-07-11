@@ -1,0 +1,5 @@
+!import-table --creature-treasure-hobgoblin --hide
+!import-table-item --creature-treasure-hobgoblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%>, <%%91%%><%%91%%>1t<%%91%%>phb-trinkets<%%93%%><%%93%%><%%93%%>, <%%91%%><%%91%%>1t<%%91%%>dmg-art<%%93%%><%%93%%><%%93%%>, and a book entitled <%%91%%><%%91%%>1t<%%91%%>Random-Books<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --creature-treasure-hobgoblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%>, <%%91%%><%%91%%>1t<%%91%%>phb-trinkets<%%93%%><%%93%%><%%93%%>, and a book entitled <%%91%%><%%91%%>1t<%%91%%>Random-Books<%%93%%><%%93%%><%%93%%> --2 --
+!import-table-item --creature-treasure-hobgoblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%> and <%%91%%><%%91%%>1t<%%91%%>phb-trinkets<%%93%%><%%93%%><%%93%%> --7 --
+!import-table-item --creature-treasure-hobgoblin --<%%91%%><%%91%%>1t<%%91%%>dmg-ind-treasure-0-4<%%93%%><%%93%%><%%93%%> --90 --
