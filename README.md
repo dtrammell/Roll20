@@ -21,7 +21,7 @@ File is the resource file, such as a script's source code, table import script, 
 
 Dependencies:
 
-Rollable tables make use of The Aaron's fantastic "TableExport" API Script.  You can add this script to your game from the Roll20 Script Library.
+Rollable tables make use of The Aaron's fantastic "TableExport" API Script.  You can add this script to your game from the Roll20 Script Library to be able to import the tables.  Many rollable tables also make use of The Aaron's fantastic "RecursiveTable" API Script which allows the output of tables to be parsed for additional tables to be rolled and dice rolls.
 
 Many macros make use of The Aaron's fantastic "RecursiveTable" API Script to roll and collect items from multiple rollable tables.  You can add this script to your game from the Roll20 Script Library.
 
