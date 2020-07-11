@@ -1,6 +1,6 @@
 !import-table --dmg-ind-treasure-0-4 --hide
-!import-table-item --dmg-ind-treasure-0-4 --5d6 cp --30 --
-!import-table-item --dmg-ind-treasure-0-4 --4d6 sp --30 --
-!import-table-item --dmg-ind-treasure-0-4 --3d6 ep --10 --
-!import-table-item --dmg-ind-treasure-0-4 --3d6 gp --15 --
-!import-table-item --dmg-ind-treasure-0-4 --1d6 pp --5 --
+!import-table-item --dmg-ind-treasure-0-4 --<%%91%%><%%91%%>5d6<%%93%%><%%93%%>cp --30 --
+!import-table-item --dmg-ind-treasure-0-4 --<%%91%%><%%91%%>4d6<%%93%%><%%93%%>sp --30 --
+!import-table-item --dmg-ind-treasure-0-4 --<%%91%%><%%91%%>3d6<%%93%%><%%93%%>ep --10 --
+!import-table-item --dmg-ind-treasure-0-4 --<%%91%%><%%91%%>3d6<%%93%%><%%93%%>gp --15 --
+!import-table-item --dmg-ind-treasure-0-4 --<%%91%%><%%91%%>1d6<%%93%%><%%93%%>pp --5 --
