@@ -1,0 +1,13 @@
+!import-table --dmg-10gp-gemstones --show
+!import-table-item --dmg-10gp-gemstones --turquoise (opaque light blue-green) --1 --
+!import-table-item --dmg-10gp-gemstones --tiger eye (translucent brown with golden center) --1 --
+!import-table-item --dmg-10gp-gemstones --rhodochrosite (opaque light pink) --1 --
+!import-table-item --dmg-10gp-gemstones --obsidian (opaque black) --1 --
+!import-table-item --dmg-10gp-gemstones --moss agate (translucent pink or yellow-white with mossy gray or green markings) --1 --
+!import-table-item --dmg-10gp-gemstones --malachite (opaque striated light and dark green) --1 --
+!import-table-item --dmg-10gp-gemstones --lapis lazuli (opaque light and dark blue with yellow flecks) --1 --
+!import-table-item --dmg-10gp-gemstones --hematite (opaque gray-black) --1 --
+!import-table-item --dmg-10gp-gemstones --eye agate (translucent circles of gray, white, brown, blue, or green) --1 --
+!import-table-item --dmg-10gp-gemstones --blue quartz (transparent pale blue) --1 --
+!import-table-item --dmg-10gp-gemstones --banded agate (translucent striped brown, blue, white, or red) --1 --
+!import-table-item --dmg-10gp-gemstones --azurite (opaque mottled deep blue) --1 --

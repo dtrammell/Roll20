@@ -1,0 +1,13 @@
+!import-table --dmg-50gp-gemstones --show
+!import-table-item --dmg-50gp-gemstones --zircon (transparent pale blue-green) --1 --
+!import-table-item --dmg-50gp-gemstones --star rose quartz (translucent rosy stone with white star-shaped center) --1 --
+!import-table-item --dmg-50gp-gemstones --sardonyx (opaque bands of red and white) --1 --
+!import-table-item --dmg-50gp-gemstones --quartz (transparent white, smoky gray, or yellow) --1 --
+!import-table-item --dmg-50gp-gemstones --onyx (opaque bands of black and white, or pure black or white) --1 --
+!import-table-item --dmg-50gp-gemstones --moonstone (translucent white with pale blue glow) --1 --
+!import-table-item --dmg-50gp-gemstones --jasper (opaque blue, black, or brown) --1 --
+!import-table-item --dmg-50gp-gemstones --citrine (transparent pale yellow-brown) --1 --
+!import-table-item --dmg-50gp-gemstones --chrysoprase (translucent green) --1 --
+!import-table-item --dmg-50gp-gemstones --chalcedony (opaque white) --1 --
+!import-table-item --dmg-50gp-gemstones --carnelian (opaque orange to red-brown) --1 --
+!import-table-item --dmg-50gp-gemstones --bloodstone (opaque dark gray with red flecks) --1 --
