@@ -1,0 +1,11 @@
+!import-table --dmg-2500gp-art-objects --show
+!import-table-item --dmg-2500gp-art-objects --a necklace string of small pink pearls --1 --
+!import-table-item --dmg-2500gp-art-objects --eye patch with a mock eye set in blue sapphire and moonstone --1 --
+!import-table-item --dmg-2500gp-art-objects --gold circlet set with four aquamarines --1 --
+!import-table-item --dmg-2500gp-art-objects --gold music box --1 --
+!import-table-item --dmg-2500gp-art-objects --jeweled anklet --1 --
+!import-table-item --dmg-2500gp-art-objects --embroidered glove set with jewel chips --1 --
+!import-table-item --dmg-2500gp-art-objects --platinum bracelet set with a sapphire --1 --
+!import-table-item --dmg-2500gp-art-objects --embroidered silk and velvet mantle set with numerous moonstones --1 --
+!import-table-item --dmg-2500gp-art-objects --old masterpiece painting --1 --
+!import-table-item --dmg-2500gp-art-objects --fine gold chain set with a fire opal --1 -
