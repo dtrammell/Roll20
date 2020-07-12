@@ -1,0 +1,8 @@
+!import-table --phb-spells-cleric-cantrip --show
+!import-table-item --phb-spells-cleric-cantrip --Guidance --1 --
+!import-table-item --phb-spells-cleric-cantrip --Light --1 --
+!import-table-item --phb-spells-cleric-cantrip --Mending --1 --
+!import-table-item --phb-spells-cleric-cantrip --Resistance --1 --
+!import-table-item --phb-spells-cleric-cantrip --Sacred Flame --1 --
+!import-table-item --phb-spells-cleric-cantrip --Spare the Dying --1 --
+!import-table-item --phb-spells-cleric-cantrip --Thaumaturgy --1 --

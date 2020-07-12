@@ -1,0 +1,13 @@
+!import-table --potions-rare --hide
+!import-table-item --potions-rare --Potion of Clairvoyance --1 --
+!import-table-item --potions-rare --Potion of Diminution --1 --
+!import-table-item --potions-rare --Potion of Gaseous Form --1 --
+!import-table-item --potions-rare --Potion of Frost Giant Strength --1 --
+!import-table-item --potions-rare --Potion of Stone Giant Strength --1 --
+!import-table-item --potions-rare --Potion of Fire Giant Strength --1 --
+!import-table-item --potions-rare --Potion of Superior Healing --1 --
+!import-table-item --potions-rare --Potion of Heroism --1 --
+!import-table-item --potions-rare --Potion of Invulnerability --1 --
+!import-table-item --potions-rare --Potion of Mind Control (beast) --1 --
+!import-table-item --potions-rare --Potion of Mind Control (humanoid) --1 --
+!import-table-item --potions-rare --Potion of Mind Reading --1 --

@@ -1,0 +1,17 @@
+!import-table --phb-spells-sorcerer-cantrip --show
+!import-table-item --phb-spells-sorcerer-cantrip --Acid Splash --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Blade Ward --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Chill Touch --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Dancing Lights --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Fire Bolt --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Friends --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Light --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Mage Hand --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Mending --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Message --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Minor Illusion --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Poison Spray --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Prestidigitation --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Ray of Frost --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --Shocking Grasp --1 --
+!import-table-item --phb-spells-sorcerer-cantrip --True Strike --1 --

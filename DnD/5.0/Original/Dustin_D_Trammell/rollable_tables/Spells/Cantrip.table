@@ -1,0 +1,7 @@
+!import-table --spells-cantrip --show
+!import-table-item --spells-cantrip --<%%91%%><%%91%%>1t<%%91%%>phb-spells-bard-cantrip<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-cantrip --<%%91%%><%%91%%>1t<%%91%%>phb-spells-cleric-cantrip<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-cantrip --<%%91%%><%%91%%>1t<%%91%%>phb-spells-druid-cantrip<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-cantrip --<%%91%%><%%91%%>1t<%%91%%>phb-spells-sorcerer-cantrip<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-cantrip --<%%91%%><%%91%%>1t<%%91%%>phb-spells-warlock-cantrip<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-cantrip --<%%91%%><%%91%%>1t<%%91%%>phb-spells-wizard-cantrip<%%93%%><%%93%%><%%93%%> --1 --

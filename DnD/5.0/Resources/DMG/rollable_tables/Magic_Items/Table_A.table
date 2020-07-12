@@ -1,0 +1,9 @@
+!import-table --dmg-magic-item-table-a --show
+!import-table-item --dmg-magic-item-table-a --Potion of Healing --50 --
+!import-table-item --dmg-magic-item-table-a --<%%91%%><%%91%%>1t<%%91%%>spells-cantrip<%%93%%><%%93%%><%%93%%> spell scroll --10 --
+!import-table-item --dmg-magic-item-table-a --Potion of Climbing --10 --
+!import-table-item --dmg-magic-item-table-a --<%%91%%><%%91%%>1t<%%91%%>spells-1st-level<%%93%%><%%93%%><%%93%%> spell scroll --20 --
+!import-table-item --dmg-magic-item-table-a --<%%91%%><%%91%%>1t<%%91%%>spells-2nd-level<%%93%%><%%93%%><%%93%%> spell scroll --4 --
+!import-table-item --dmg-magic-item-table-a --Potion of Greater Healing --4 --
+!import-table-item --dmg-magic-item-table-a --Bag of Holding --1 --
+!import-table-item --dmg-magic-item-table-a --Driftglobe --1 --

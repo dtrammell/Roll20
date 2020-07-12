@@ -1,0 +1,9 @@
+!import-table --potions-very-rare --hide
+!import-table-item --potions-very-rare --Potion of Flying --1 --
+!import-table-item --potions-very-rare --Potion of Cloud Giant Strength --1 --
+!import-table-item --potions-very-rare --Potion of Supreme Healing --1 --
+!import-table-item --potions-very-rare --Potion of Invisibility --1 --
+!import-table-item --potions-very-rare -- Potion of Longevity --1 --
+!import-table-item --potions-very-rare -- Potion of Mind Control (monster) --1 --
+!import-table-item --potions-very-rare --Potion of Speed --1 --
+!import-table-item --potions-very-rare --Potion of Vitality --1 --

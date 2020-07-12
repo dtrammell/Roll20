@@ -1,0 +1,7 @@
+!import-table --spells-8th-level --show
+!import-table-item --spells-8th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-bard-8th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-8th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-cleric-8th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-8th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-druid-8th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-8th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-sorcerer-8th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-8th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-warlock-8th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-8th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-wizard-8th-level<%%93%%><%%93%%><%%93%%> --1 --

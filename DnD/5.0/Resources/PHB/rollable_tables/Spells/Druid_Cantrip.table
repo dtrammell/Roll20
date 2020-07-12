@@ -1,0 +1,9 @@
+!import-table --phb-spells-druid-cantrip --show
+!import-table-item --phb-spells-druid-cantrip --Druidcraft --1 --
+!import-table-item --phb-spells-druid-cantrip --Guidance --1 --
+!import-table-item --phb-spells-druid-cantrip --Mending --1 --
+!import-table-item --phb-spells-druid-cantrip --Poison Spray --1 --
+!import-table-item --phb-spells-druid-cantrip --Produce Flame --1 --
+!import-table-item --phb-spells-druid-cantrip --Resistance --1 --
+!import-table-item --phb-spells-druid-cantrip --Shillelagh --1 --
+!import-table-item --phb-spells-druid-cantrip --Thorn Whip --1 --

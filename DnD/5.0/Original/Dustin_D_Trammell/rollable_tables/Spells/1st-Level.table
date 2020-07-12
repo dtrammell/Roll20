@@ -1,0 +1,9 @@
+!import-table --spells-1st-level --show
+!import-table-item --spells-1st-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-bard-1st-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-1st-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-cleric-1st-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-1st-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-druid-1st-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-1st-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-paladin-1st-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-1st-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-ranger-1st-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-1st-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-sorcerer-1st-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-1st-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-warlock-1st-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-1st-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-wizard-1st-level<%%93%%><%%93%%><%%93%%> --1 --

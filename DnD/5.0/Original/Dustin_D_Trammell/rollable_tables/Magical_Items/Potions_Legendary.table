@@ -1,0 +1,3 @@
+!import-table --potions-legendary --hide
+!import-table-item --potions-legendary --Potion of Giant Size --1 --
+!import-table-item --potions-legendary --Potion of Storm Giant Strength --1 --

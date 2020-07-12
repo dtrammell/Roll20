@@ -1,0 +1,7 @@
+!import-table --spells-6th-level --show
+!import-table-item --spells-6th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-bard-6th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-6th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-cleric-6th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-6th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-druid-6th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-6th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-sorcerer-6th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-6th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-warlock-6th-level<%%93%%><%%93%%><%%93%%> --1 --
+!import-table-item --spells-6th-level --<%%91%%><%%91%%>1t<%%91%%>phb-spells-wizard-6th-level<%%93%%><%%93%%><%%93%%> --1 --

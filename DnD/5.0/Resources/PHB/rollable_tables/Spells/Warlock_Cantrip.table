@@ -1,0 +1,10 @@
+!import-table --phb-spells-warlock-cantrip --show
+!import-table-item --phb-spells-warlock-cantrip --Blade Ward --1 --
+!import-table-item --phb-spells-warlock-cantrip --Chill Touch --1 --
+!import-table-item --phb-spells-warlock-cantrip --Eldritch Blast --1 --
+!import-table-item --phb-spells-warlock-cantrip --Friends --1 --
+!import-table-item --phb-spells-warlock-cantrip --Mage Hand --1 --
+!import-table-item --phb-spells-warlock-cantrip --Minor Illusion --1 --
+!import-table-item --phb-spells-warlock-cantrip --Poison Spray --1 --
+!import-table-item --phb-spells-warlock-cantrip --Prestidigitation --1 --
+!import-table-item --phb-spells-warlock-cantrip --True Strike --1 --

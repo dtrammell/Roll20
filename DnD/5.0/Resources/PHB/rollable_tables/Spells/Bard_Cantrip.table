@@ -1,0 +1,12 @@
+!import-table --phb-spells-bard-cantrip --show
+!import-table-item --phb-spells-bard-cantrip --Blade Ward --1 --
+!import-table-item --phb-spells-bard-cantrip --Dancing Lights --1 --
+!import-table-item --phb-spells-bard-cantrip --Friends --1 --
+!import-table-item --phb-spells-bard-cantrip --Light --1 --
+!import-table-item --phb-spells-bard-cantrip --Mage Hand --1 --
+!import-table-item --phb-spells-bard-cantrip --Mending --1 --
+!import-table-item --phb-spells-bard-cantrip --Message --1 --
+!import-table-item --phb-spells-bard-cantrip --Minor Illusion --1 --
+!import-table-item --phb-spells-bard-cantrip --Prestidigitation --1 --
+!import-table-item --phb-spells-bard-cantrip --True Strike --1 --
+!import-table-item --phb-spells-bard-cantrip --Vicious Mockery --1 --
