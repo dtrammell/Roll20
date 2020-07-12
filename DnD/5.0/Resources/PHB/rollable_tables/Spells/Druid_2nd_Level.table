@@ -1,0 +1,19 @@
+!import-table --phb-spells-druid-2nd-level --show
+!import-table-item --phb-spells-druid-2nd-level --Animal Messenger --1 --
+!import-table-item --phb-spells-druid-2nd-level --Barkskin --1 --
+!import-table-item --phb-spells-druid-2nd-level --Beast Sense --1 --
+!import-table-item --phb-spells-druid-2nd-level --Darkvision --1 --
+!import-table-item --phb-spells-druid-2nd-level --Enhance Ability --1 --
+!import-table-item --phb-spells-druid-2nd-level --Find Traps --1 --
+!import-table-item --phb-spells-druid-2nd-level --Flame Blade --1 --
+!import-table-item --phb-spells-druid-2nd-level --Flaming Sphere --1 --
+!import-table-item --phb-spells-druid-2nd-level --Gust of Wind --1 --
+!import-table-item --phb-spells-druid-2nd-level --Heat Metal --1 --
+!import-table-item --phb-spells-druid-2nd-level --Hold Person --1 --
+!import-table-item --phb-spells-druid-2nd-level --Lesser Restoration --1 --
+!import-table-item --phb-spells-druid-2nd-level --Locate Animals or Plants --1 --
+!import-table-item --phb-spells-druid-2nd-level --Locate Object --1 --
+!import-table-item --phb-spells-druid-2nd-level --Moonbeam --1 --
+!import-table-item --phb-spells-druid-2nd-level --Pass without Trace --1 --
+!import-table-item --phb-spells-druid-2nd-level --Protection from Poison --1 --
+!import-table-item --phb-spells-druid-2nd-level --Spike Growth --1 --

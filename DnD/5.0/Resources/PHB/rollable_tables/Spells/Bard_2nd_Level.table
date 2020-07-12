@@ -1,0 +1,23 @@
+!import-table --phb-spells-bard-2nd-level --show
+!import-table-item --phb-spells-bard-2nd-level --Animal Messenger --1 --
+!import-table-item --phb-spells-bard-2nd-level --Blindness/Deafness --1 --
+!import-table-item --phb-spells-bard-2nd-level --Calm Emotions --1 --
+!import-table-item --phb-spells-bard-2nd-level --Cloud of Daggers --1 --
+!import-table-item --phb-spells-bard-2nd-level --Crown of Madness --1 --
+!import-table-item --phb-spells-bard-2nd-level --Detect Thoughts --1 --
+!import-table-item --phb-spells-bard-2nd-level --Enhance Ability --1 --
+!import-table-item --phb-spells-bard-2nd-level --Enthrall --1 --
+!import-table-item --phb-spells-bard-2nd-level --Heat Metal --1 --
+!import-table-item --phb-spells-bard-2nd-level --Hold Person --1 --
+!import-table-item --phb-spells-bard-2nd-level --Invisibility --1 --
+!import-table-item --phb-spells-bard-2nd-level --Knock --1 --
+!import-table-item --phb-spells-bard-2nd-level --Lesser Restoration --1 --
+!import-table-item --phb-spells-bard-2nd-level --Locate Animals or Plants --1 --
+!import-table-item --phb-spells-bard-2nd-level --Locate Object --1 --
+!import-table-item --phb-spells-bard-2nd-level --Magic Mouth --1 --
+!import-table-item --phb-spells-bard-2nd-level --Phantasmal Force --1 --
+!import-table-item --phb-spells-bard-2nd-level --See Invisibility --1 --
+!import-table-item --phb-spells-bard-2nd-level --Shatter --1 --
+!import-table-item --phb-spells-bard-2nd-level --Silence --1 --
+!import-table-item --phb-spells-bard-2nd-level --Suggestion --1 --
+!import-table-item --phb-spells-bard-2nd-level --Zone of Truth --1 --

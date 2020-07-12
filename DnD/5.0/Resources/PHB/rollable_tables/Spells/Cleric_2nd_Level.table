@@ -1,0 +1,18 @@
+!import-table --phb-spells-cleric-2nd-level --show
+!import-table-item --phb-spells-cleric-2nd-level --Aid --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Augury --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Blindness/Deafness --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Calm Emotions --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Continual Flame --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Enhance Ability --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Find Traps --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Gentle Repose --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Hold Person --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Lesser Restoration --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Locate Object --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Prayer of Healing --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Protection from Poison --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Silence --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Spiritual Weapon --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Warding Bond --1 --
+!import-table-item --phb-spells-cleric-2nd-level --Zone of Truth --1 --

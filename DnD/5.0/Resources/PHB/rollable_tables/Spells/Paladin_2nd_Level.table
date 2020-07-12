@@ -1,0 +1,9 @@
+!import-table --phb-spells-paladin-2nd-level --show
+!import-table-item --phb-spells-paladin-2nd-level --Aid --1 --
+!import-table-item --phb-spells-paladin-2nd-level --Branding Smite --1 --
+!import-table-item --phb-spells-paladin-2nd-level --Find Steed --1 --
+!import-table-item --phb-spells-paladin-2nd-level --Lesser Restoration --1 --
+!import-table-item --phb-spells-paladin-2nd-level --Locate Object --1 --
+!import-table-item --phb-spells-paladin-2nd-level --Magic Weapon --1 --
+!import-table-item --phb-spells-paladin-2nd-level --Protection from Poison --1 --
+!import-table-item --phb-spells-paladin-2nd-level --Zone of Truth --1 --

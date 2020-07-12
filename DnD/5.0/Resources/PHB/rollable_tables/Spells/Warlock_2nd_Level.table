@@ -1,0 +1,13 @@
+!import-table --phb-spells-warlock-2nd-level --show
+!import-table-item --phb-spells-warlock-2nd-level --Cloud of Daggers --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Crown of Madness --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Darkness --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Enthrall --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Hold Person --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Invisibility --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Mirror Image --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Misty Step --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Ray of Enfeeblement --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Shatter --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Spider Climb --1 --
+!import-table-item --phb-spells-warlock-2nd-level --Suggestion --1 --
