@@ -1,0 +1,5 @@
+!import-table --dmg-5000gp-gemstones --hide
+!import-table-item --dmg-5000gp-gemstones --ruby (transparent clear red to deep crimson) --1 --
+!import-table-item --dmg-5000gp-gemstones --jacinth (transparent fiery orange) --1 --
+!import-table-item --dmg-5000gp-gemstones --diamond (transparent blue-white, canary, pink, brown, or blue) --1 --
+!import-table-item --dmg-5000gp-gemstones --black sapphire (translucent lustrous black with glowing highlights) --1 --
