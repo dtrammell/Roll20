@@ -1,0 +1,16 @@
+!import-table --phb-spells-paladin-1st-level --show
+!import-table-item --phb-spells-paladin-1st-level --Bless --1 --
+!import-table-item --phb-spells-paladin-1st-level --Command --1 --
+!import-table-item --phb-spells-paladin-1st-level --Compelled Duel --1 --
+!import-table-item --phb-spells-paladin-1st-level --Cure Wounds --1 --
+!import-table-item --phb-spells-paladin-1st-level --Detect Evil and Good --1 --
+!import-table-item --phb-spells-paladin-1st-level --Detect Magic --1 --
+!import-table-item --phb-spells-paladin-1st-level --Detect Poison and Disease --1 --
+!import-table-item --phb-spells-paladin-1st-level --Divine Favor --1 --
+!import-table-item --phb-spells-paladin-1st-level --Heroism --1 --
+!import-table-item --phb-spells-paladin-1st-level --Protection from Evil and Good --1 --
+!import-table-item --phb-spells-paladin-1st-level --Purify Food and Drink --1 --
+!import-table-item --phb-spells-paladin-1st-level --Searing Smite --1 --
+!import-table-item --phb-spells-paladin-1st-level --Shield of Faith --1 --
+!import-table-item --phb-spells-paladin-1st-level --Thunderous Smite --1 --
+!import-table-item --phb-spells-paladin-1st-level --Wrathful Smite --1 --

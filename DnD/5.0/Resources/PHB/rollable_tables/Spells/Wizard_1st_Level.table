@@ -1,0 +1,31 @@
+!import-table --phb-spells-wizard-1st-level --show
+!import-table-item --phb-spells-wizard-1st-level --Alarm --1 --
+!import-table-item --phb-spells-wizard-1st-level --Burning Hands --1 --
+!import-table-item --phb-spells-wizard-1st-level --Charm Person --1 --
+!import-table-item --phb-spells-wizard-1st-level --Chromatic Orb --1 --
+!import-table-item --phb-spells-wizard-1st-level --Color Spray --1 --
+!import-table-item --phb-spells-wizard-1st-level --Comprehend Languages --1 --
+!import-table-item --phb-spells-wizard-1st-level --Detect Magic --1 --
+!import-table-item --phb-spells-wizard-1st-level --Disguise Self --1 --
+!import-table-item --phb-spells-wizard-1st-level --Expeditious Retreat --1 --
+!import-table-item --phb-spells-wizard-1st-level --False Life --1 --
+!import-table-item --phb-spells-wizard-1st-level --Feather Fall --1 --
+!import-table-item --phb-spells-wizard-1st-level --Find Familiar --1 --
+!import-table-item --phb-spells-wizard-1st-level --Fog Cloud --1 --
+!import-table-item --phb-spells-wizard-1st-level --Grease --1 --
+!import-table-item --phb-spells-wizard-1st-level --Identify --1 --
+!import-table-item --phb-spells-wizard-1st-level --Illusory Script --1 --
+!import-table-item --phb-spells-wizard-1st-level --Jump --1 --
+!import-table-item --phb-spells-wizard-1st-level --Longstrider --1 --
+!import-table-item --phb-spells-wizard-1st-level --Mage Armor --1 --
+!import-table-item --phb-spells-wizard-1st-level --Magic Missile --1 --
+!import-table-item --phb-spells-wizard-1st-level --Protection from Evil and Good --1 --
+!import-table-item --phb-spells-wizard-1st-level --Ray of Sickness --1 --
+!import-table-item --phb-spells-wizard-1st-level --Shield --1 --
+!import-table-item --phb-spells-wizard-1st-level --Silent Image --1 --
+!import-table-item --phb-spells-wizard-1st-level --Sleep --1 --
+!import-table-item --phb-spells-wizard-1st-level --Tasha’s Hideous Laughter --1 --
+!import-table-item --phb-spells-wizard-1st-level --Tenser’s Floating Disk --1 --
+!import-table-item --phb-spells-wizard-1st-level --Thunderwave --1 --
+!import-table-item --phb-spells-wizard-1st-level --Unseen Servant --1 --
+!import-table-item --phb-spells-wizard-1st-level --Witch Bolt --1 --

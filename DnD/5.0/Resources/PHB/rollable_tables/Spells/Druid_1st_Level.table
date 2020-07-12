@@ -1,0 +1,17 @@
+!import-table --phb-spells-druid-1st-level --show
+!import-table-item --phb-spells-druid-1st-level --Animal Friendship --1 --
+!import-table-item --phb-spells-druid-1st-level --Charm Person --1 --
+!import-table-item --phb-spells-druid-1st-level --Create or Destroy Water --1 --
+!import-table-item --phb-spells-druid-1st-level --Cure Wounds --1 --
+!import-table-item --phb-spells-druid-1st-level --Detect Magic --1 --
+!import-table-item --phb-spells-druid-1st-level --Detect Poison and Disease --1 --
+!import-table-item --phb-spells-druid-1st-level --Entangle --1 --
+!import-table-item --phb-spells-druid-1st-level --Faerie Fire --1 --
+!import-table-item --phb-spells-druid-1st-level --Fog Cloud --1 --
+!import-table-item --phb-spells-druid-1st-level --Goodberry --1 --
+!import-table-item --phb-spells-druid-1st-level --Healing Word --1 --
+!import-table-item --phb-spells-druid-1st-level --Jump --1 --
+!import-table-item --phb-spells-druid-1st-level --Longstrider --1 --
+!import-table-item --phb-spells-druid-1st-level --Purify Food and Drink --1 --
+!import-table-item --phb-spells-druid-1st-level --Speak with Animals --1 --
+!import-table-item --phb-spells-druid-1st-level --Thunderwave --1 --

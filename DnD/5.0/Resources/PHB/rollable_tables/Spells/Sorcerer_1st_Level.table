@@ -1,0 +1,21 @@
+!import-table --phb-spells-sorcerer-1st-level --show
+!import-table-item --phb-spells-sorcerer-1st-level --Burning Hands --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Charm Person --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Chromatic Orb --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Color Spray --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Comprehend Languages --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Detect Magic --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Disguise Self --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Expeditious Retreat --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --False Life --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Feather Fall --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Fog Cloud --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Jump --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Mage Armor --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Magic Missile --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Ray of Sickness --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Shield --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Silent Image --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Sleep --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Thunderwave --1 --
+!import-table-item --phb-spells-sorcerer-1st-level --Witch Bolt --1 --

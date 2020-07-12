@@ -1,0 +1,12 @@
+!import-table --phb-spells-warlock-1st-level --show
+!import-table-item --phb-spells-warlock-1st-level --Armor of Agathys --1 --
+!import-table-item --phb-spells-warlock-1st-level --Arms of Hadar --1 --
+!import-table-item --phb-spells-warlock-1st-level --Charm Person --1 --
+!import-table-item --phb-spells-warlock-1st-level --Comprehend Languages --1 --
+!import-table-item --phb-spells-warlock-1st-level --Expeditious Retreat --1 --
+!import-table-item --phb-spells-warlock-1st-level --Hellish Rebuke --1 --
+!import-table-item --phb-spells-warlock-1st-level --Hex --1 --
+!import-table-item --phb-spells-warlock-1st-level --Illusory Script --1 --
+!import-table-item --phb-spells-warlock-1st-level --Protection from Evil and Good --1 --
+!import-table-item --phb-spells-warlock-1st-level --Unseen Servant --1 --
+!import-table-item --phb-spells-warlock-1st-level --Witch Bolt --1 --

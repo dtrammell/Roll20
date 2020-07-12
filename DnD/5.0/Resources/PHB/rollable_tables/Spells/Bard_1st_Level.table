@@ -1,0 +1,22 @@
+!import-table --phb-spells-bard-1st-level --show
+!import-table-item --phb-spells-bard-1st-level --Animal Friendship --1 --
+!import-table-item --phb-spells-bard-1st-level --Bane --1 --
+!import-table-item --phb-spells-bard-1st-level --Charm Person --1 --
+!import-table-item --phb-spells-bard-1st-level --Comprehend Languages --1 --
+!import-table-item --phb-spells-bard-1st-level --Cure Wounds --1 --
+!import-table-item --phb-spells-bard-1st-level --Detect Magic --1 --
+!import-table-item --phb-spells-bard-1st-level --Disguise Self --1 --
+!import-table-item --phb-spells-bard-1st-level --Dissonant Whispers --1 --
+!import-table-item --phb-spells-bard-1st-level --Faerie Fire --1 --
+!import-table-item --phb-spells-bard-1st-level --Feather Fall --1 --
+!import-table-item --phb-spells-bard-1st-level --Healing Word --1 --
+!import-table-item --phb-spells-bard-1st-level --Heroism --1 --
+!import-table-item --phb-spells-bard-1st-level --Identify --1 --
+!import-table-item --phb-spells-bard-1st-level --Illusory Script --1 --
+!import-table-item --phb-spells-bard-1st-level --Longstrider --1 --
+!import-table-item --phb-spells-bard-1st-level --Silent Image --1 --
+!import-table-item --phb-spells-bard-1st-level --Sleep --1 --
+!import-table-item --phb-spells-bard-1st-level --Speak with Animals --1 --
+!import-table-item --phb-spells-bard-1st-level --Tasha’s Hideous Laughter --1 --
+!import-table-item --phb-spells-bard-1st-level --Thunderwave --1 --
+!import-table-item --phb-spells-bard-1st-level --Unseen Servant --1 --

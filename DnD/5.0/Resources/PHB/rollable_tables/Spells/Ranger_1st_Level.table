@@ -1,0 +1,14 @@
+!import-table --phb-spells-ranger-1st-level --show
+!import-table-item --phb-spells-ranger-1st-level --Alarm --1 --
+!import-table-item --phb-spells-ranger-1st-level --Animal Friendship --1 --
+!import-table-item --phb-spells-ranger-1st-level --Cure Wounds --1 --
+!import-table-item --phb-spells-ranger-1st-level --Detect Magic --1 --
+!import-table-item --phb-spells-ranger-1st-level --Detect Poison and Disease --1 --
+!import-table-item --phb-spells-ranger-1st-level --Ensnaring Strike --1 --
+!import-table-item --phb-spells-ranger-1st-level --Fog Cloud --1 --
+!import-table-item --phb-spells-ranger-1st-level --Goodberry --1 --
+!import-table-item --phb-spells-ranger-1st-level --Hail of Thorns --1 --
+!import-table-item --phb-spells-ranger-1st-level --Hunter’s Mark --1 --
+!import-table-item --phb-spells-ranger-1st-level --Jump --1 --
+!import-table-item --phb-spells-ranger-1st-level --Longstrider --1 --
+!import-table-item --phb-spells-ranger-1st-level --Speak with Animals --1 --

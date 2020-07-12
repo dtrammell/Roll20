@@ -1,0 +1,16 @@
+!import-table --phb-spells-cleric-1st-level --show
+!import-table-item --phb-spells-cleric-1st-level --Bane --1 --
+!import-table-item --phb-spells-cleric-1st-level --Bless --1 --
+!import-table-item --phb-spells-cleric-1st-level --Command --1 --
+!import-table-item --phb-spells-cleric-1st-level --Create or Destroy Water --1 --
+!import-table-item --phb-spells-cleric-1st-level --Cure Wounds --1 --
+!import-table-item --phb-spells-cleric-1st-level --Detect Evil and Good --1 --
+!import-table-item --phb-spells-cleric-1st-level --Detect Magic --1 --
+!import-table-item --phb-spells-cleric-1st-level --Detect Poison and Disease --1 --
+!import-table-item --phb-spells-cleric-1st-level --Guiding Bolt --1 --
+!import-table-item --phb-spells-cleric-1st-level --Healing Word --1 --
+!import-table-item --phb-spells-cleric-1st-level --Inflict Wounds --1 --
+!import-table-item --phb-spells-cleric-1st-level --Protection from Evil and Good --1 --
+!import-table-item --phb-spells-cleric-1st-level --Purify Food and Drink --1 --
+!import-table-item --phb-spells-cleric-1st-level --Sanctuary --1 --
+!import-table-item --phb-spells-cleric-1st-level --Shield of Faith --1 --
