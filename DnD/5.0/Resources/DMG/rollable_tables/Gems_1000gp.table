@@ -1,0 +1,9 @@
+!import-table --dmg-1000gp-gemstones --hide
+!import-table-item --dmg-1000gp-gemstones --yellow sapphire (transparent fiery yellow or yellow-green) --1 --
+!import-table-item --dmg-1000gp-gemstones --star sapphire (translucent blue sapphire with white star-shaped center) --1 --
+!import-table-item --dmg-1000gp-gemstones --star ruby (translucent ruby with white star-shaped center) --1 --
+!import-table-item --dmg-1000gp-gemstones --opal (translucent pale blue with green and golden mottling) --1 --
+!import-table-item --dmg-1000gp-gemstones --fire opal (translucent fiery red) --1 --
+!import-table-item --dmg-1000gp-gemstones --emerald (transparent deep bright green) --1 --
+!import-table-item --dmg-1000gp-gemstones --blue sapphire (transparent blue-white to medium blue) --1 --
+!import-table-item --dmg-1000gp-gemstones --black opal (translucent dark green with black mottling and golden flecks) --1 --

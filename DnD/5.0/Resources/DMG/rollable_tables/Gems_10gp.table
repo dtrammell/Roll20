@@ -1,4 +1,4 @@
-!import-table --dmg-10gp-gemstones --show
+!import-table --dmg-10gp-gemstones --hide
 !import-table-item --dmg-10gp-gemstones --turquoise (opaque light blue-green) --1 --
 !import-table-item --dmg-10gp-gemstones --tiger eye (translucent brown with golden center) --1 --
 !import-table-item --dmg-10gp-gemstones --rhodochrosite (opaque light pink) --1 --

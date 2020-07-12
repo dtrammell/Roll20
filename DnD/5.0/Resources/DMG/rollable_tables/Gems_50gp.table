@@ -1,4 +1,4 @@
-!import-table --dmg-50gp-gemstones --show
+!import-table --dmg-50gp-gemstones --hide
 !import-table-item --dmg-50gp-gemstones --zircon (transparent pale blue-green) --1 --
 !import-table-item --dmg-50gp-gemstones --star rose quartz (translucent rosy stone with white star-shaped center) --1 --
 !import-table-item --dmg-50gp-gemstones --sardonyx (opaque bands of red and white) --1 --

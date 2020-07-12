@@ -1,0 +1,11 @@
+!import-table --dmg-100gp-gemstones --hide
+!import-table-item --dmg-100gp-gemstones --tourmaline (transparent pale green, blue, brown, or red) --1 --
+!import-table-item --dmg-100gp-gemstones --spinel (transparent red, red-brown, or deep green) --1 --
+!import-table-item --dmg-100gp-gemstones --pearl (opaque lustrous white, yellow, or pink) --1 --
+!import-table-item --dmg-100gp-gemstones --jet (opaque deep black) --1 --
+!import-table-item --dmg-100gp-gemstones --jade (translucent light green, deep green, or white) --1 --
+!import-table-item --dmg-100gp-gemstones --garnet (transparent red, brown-green, or violet) --1 --
+!import-table-item --dmg-100gp-gemstones --coral (opaque crimson) --1 --
+!import-table-item --dmg-100gp-gemstones --chrysoberyl (transparent yellow-green to pale green) --1 --
+!import-table-item --dmg-100gp-gemstones --amethyst (transparent deep purple) --1 --
+!import-table-item --dmg-100gp-gemstones --amber (transparent watery gold to rich gold) --1 --

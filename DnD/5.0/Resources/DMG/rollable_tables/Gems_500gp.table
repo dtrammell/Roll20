@@ -1,0 +1,7 @@
+!import-table --dmg-500gp-gemstones --hide
+!import-table-item --dmg-500gp-gemstones --topaz (transparent golden yellow) --1 --
+!import-table-item --dmg-500gp-gemstones --peridot (transparent rich olive green) --1 --
+!import-table-item --dmg-500gp-gemstones --blue spinel (transparent deep blue) --1 --
+!import-table-item --dmg-500gp-gemstones --black pearl (opaque pure black) --1 --
+!import-table-item --dmg-500gp-gemstones --aquamarine (transparent pale blue-green) --1 --
+!import-table-item --dmg-500gp-gemstones --alexandrite (transparent dark green) --1 --
