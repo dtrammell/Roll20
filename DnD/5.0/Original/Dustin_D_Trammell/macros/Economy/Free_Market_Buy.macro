@@ -1,0 +1,2 @@
+?{Normal value of the item(s)}
+The merchant wants [[ (( 1d20 + ?{State of the local economy|Depression, 60|Recession, 80|Normal, 90|Prosperous, 100|Utopian, 120} ) / 100 ) * ?{Normal value of the item(s)} ]] for the item(s).  #freemarket
